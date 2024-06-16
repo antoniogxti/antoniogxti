@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @antoniogxti
 - 🌱 I’m currently learning html, css & javascript.
-- 📫 How to reach me: @antoniogxti or email adress.
 
 
 <!---
